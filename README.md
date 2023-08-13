@@ -11,8 +11,8 @@
   <img align="right" width="280px" src="images/computer.gif"/>
 
   <ul>
-    <li>:hurtrealbad: Amo <b>programação</b>, <b>música</b>, <b>games</b> e <b>ver animes</b>.</li>
-    <li>:mount_fuji: Meu objetivo é me tornar uma <b>Desenvolvedora Backend</b>.</li>
+    <li>:hurtrealbad: Gosto de <b>programação</b>, <b>música</b>, <b>games</b> e <b>ver animes</b>.</li>
+    <li>:mount_fuji: Meu objetivo é me tornar um <b>Desenvolvedor Backend</b>.</li>
     <li>:computer: As linguagens com as quais tenho familiaridade até o momento são: <b>Java, SpringBoot, C#, Ruby</b>.</li>
     <li>:hotsprings: Caso precise me contatar, minhas redes estarão todas na sequência :point_down:.</li>
   </ul>
