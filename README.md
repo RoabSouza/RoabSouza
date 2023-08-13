@@ -4,18 +4,17 @@
 <p align="center">Comecei a aprender sobre programação assim que terminei de cursar a faculdade de Letras. Durante todo o tempo que passei na faculdade, me sentia muito frustrada quando pensava em ter que levar aquilo pra área profissional, e me questionava se um dia encontraria algo que me fizesse me sentir sastisfeita quanto à isso. E foi justamente o que consegui encontrar na programação: o sentimento que tenho quando estou estudando sobre isso, é de pura certeza de que é exatamente isso que quero fazer, e cada vez que vejo um código que faço cumprindo sua função, fico mais feliz de ter feito a escolha de dar uma chance pra tudo isso. </p>
 <hr/>
 
-<h2 align="center">:star2: Sobre mim</h2>
+<h2 align="center">:coffee: Sobre mim</h2>
 <br>
 
 <div>
   <img align="right" width="280px" src="images/computer.gif"/>
 
   <ul>
-    <li>:purple_heart: Amo <b>programação</b>, <b>música</b>, <b>ler</b> e <b>ver animes</b>.</li>
-    <li>:crystal_ball: Meu objetivo é me tornar uma <b>Desenvolvedora Fullstack</b>.</li>
-    <li>:computer: As linguagens com as quais tenho familiaridade até o momento são: <b>HTML, CSS e JavaScript</b>.</li>
-    <li>:mag_right: Caso queira, vai lá dar uma olhada nos meus projetos do <a href="https://www.frontendmentor.io/profile/lrsslv" target="_blanck">Frontend Mentor</a>.</li>
-    <li>:cherry_blossom: Caso precise me contatar, minhas redes estarão todas na sequência :point_down:.</li>
+    <li>:hurtrealbad: Amo <b>programação</b>, <b>música</b>, <b>games</b> e <b>ver animes</b>.</li>
+    <li>:mount_fuji: Meu objetivo é me tornar uma <b>Desenvolvedora Backend</b>.</li>
+    <li>:computer: As linguagens com as quais tenho familiaridade até o momento são: <b>Java, SpringBoot, C#, Ruby</b>.</li>
+    <li>:hotsprings: Caso precise me contatar, minhas redes estarão todas na sequência :point_down:.</li>
   </ul>
 </div>
 
@@ -23,7 +22,7 @@
   <a href="https://github.com/lrsslv">
 </div>
 
-<h2 align="center">:star2: Conecte-se Comigo</h2>
+<h2 align="center">:coffee: Conecte-se Comigo</h2>
 
 <div align = "center">
 
@@ -37,33 +36,25 @@
 
 <div align = "center">
 
-<h2 align="center">:star2: Linguagens e Ferramentas</h2>
+<h2 align="center">:coffee: Linguagens e Ferramentas</h2>
 
 <details open>
-<summary><b>🏄‍♂️ Frontend</b></summary>
+<summary><b>🧰 Backend </b></summary>
 <br>
   
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
-![Redux](https://img.shields.io/badge/-Redux-5F3DC4?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)&nbsp;
-</details>
-    
-<details open>
-<summary><b>🧰 Backend</b></summary>
-<br>
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-</details>
+![Javas](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![SpringBoot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)&nbsp;
+
 
 <details open>
 <summary><b>🗄️ Database</b></summary>
 <br>
 
-![Postgresql](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 </details>
 
 <details open>
@@ -73,11 +64,14 @@
 ![Git](https://img.shields.io/badge/-git-red?style=for-the-badge&logo=Git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-VSCODE-007ACC?style=for-the-badge&&logo=visual-studio-code&logoColor=white)&nbsp;
+![Eclipse IDE](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)&nbsp;
+
+
 </details>
 
 </div>
 
-<h2 align="center">:star2: Mais Sobre mim no GitHub</h2>
+<h2 align="center">:coffee: Mais Sobre mim no GitHub</h2>
 
 <details align="center">
 <summary><b>🔥 Estatísticas Sequenciais</b></summary>
