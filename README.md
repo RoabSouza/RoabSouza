@@ -1,7 +1,7 @@
 <div align="center"> 
   <img width="750px" src="images/message.gif"/>
 </div>
-<p align="center">Comecei a aprender sobre programação assim que terminei de cursar a faculdade de Letras. Durante todo o tempo que passei na faculdade, me sentia muito frustrada quando pensava em ter que levar aquilo pra área profissional, e me questionava se um dia encontraria algo que me fizesse me sentir sastisfeita quanto à isso. E foi justamente o que consegui encontrar na programação: o sentimento que tenho quando estou estudando sobre isso, é de pura certeza de que é exatamente isso que quero fazer, e cada vez que vejo um código que faço cumprindo sua função, fico mais feliz de ter feito a escolha de dar uma chance pra tudo isso. </p>
+<p align="center"> </p>
 <hr/>
 
 <h2 align="center">:coffee: Sobre mim</h2>
